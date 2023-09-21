@@ -1,0 +1,3 @@
+- Go to discord developer portal and create a new application
+- Copy the client id and paste in in the main.py
+- You're good to go!
